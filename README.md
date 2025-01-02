@@ -28,7 +28,8 @@ An overview of the repository is presented below.
 
 ```
 **Note:** 
-In the present study, the modules were performed consecutively as the results of the previous module was used as input for the next module. Yet, the code in each module can be run independently of each other. 
+In the present study, the modules were performed consecutively as the results of the previous module was used as input for the next module. Yet, the code in each module can be run independently of each other.\
+To keep the folder structure intact, empty txt-files named "gitkeep.txt" have been added to folder that would otherwise be empty until the associated .ipynb-file has been run.
 
 ## Data source
 The analysis is performed on movie scripts [The Cornell Movie-Dialog Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html?fbclid=IwZXh0bgNhZW0CMTAAAR3jsE2-wD4HZhTrzowavqA94a6IOpnn5qCSOcdRHJ2toVJawSuxDIVnjog_aem_jYxU3UnBmZPvVrUO6AyOCQ). To be able to run the code, the data should be downloaded and saved beforehand, see **Installation** for more information. 
