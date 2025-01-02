@@ -25,7 +25,6 @@ An overview of the repository is presented below.
 │   │   ├── code
 │   │   ├── models
 │   │   ├── output 
-│   ├── 
 
 ```
 **Note:** 
