@@ -1,6 +1,6 @@
 # Natural Language Processing Exam 2025 
 
-**Author**: Victoria Engberg Lowe, Vlada Caraman & Natasha Becker Bertelsen
+**Authors**: Victoria Engberg Lowe, Vlada Caraman & Natasha Becker Bertelsen
 
 **Date**: 02/01/2025
 
