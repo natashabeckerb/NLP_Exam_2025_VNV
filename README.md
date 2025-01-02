@@ -2,7 +2,7 @@
 
 **Authors**: Victoria Engberg Lowe, Vlada Caraman & Natasha Becker Bertelsen
 
-**Date**: 02/01/2025
+**Date**: 03/01/2025
 
 ## Description
 An overview of the repository is presented below. 
