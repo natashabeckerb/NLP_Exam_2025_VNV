@@ -27,8 +27,8 @@ An overview of the repository is presented below.
 │   │   ├── output 
 
 ```
-**Note:** \
-- In the present study, the modules were performed consecutively as the results of the previous module was used as input for the next module. Therefore, the modules cannot be run independently, unless all 4 models have already been run through once.\
+**Note:** 
+- In the present study, the modules were performed consecutively as the results of the previous module was used as input for the next module. Therefore, the modules cannot be run independently, unless all 4 models have already been run through once.
 - To keep the folder structure intact, empty txt-files named "gitkeep.txt" have been added to folder that would otherwise be empty until the associated .ipynb-file has been run.
 
 ## Data source
