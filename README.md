@@ -31,4 +31,8 @@ An overview of the repository is presented below.
 In the present study, the modules were performed consecutively as the results of the previous module was used as input for the next module. Yet, the code in each module can be run independently of each other. 
 
 ## Data source
-The analysis is performed on movie scripts from [The Cornell Movie-Dialog Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html?fbclid=IwZXh0bgNhZW0CMTAAAR3jsE2-wD4HZhTrzowavqA94a6IOpnn5qCSOcdRHJ2toVJawSuxDIVnjog_aem_jYxU3UnBmZPvVrUO6AyOCQ). The data is already available in the *data* folder in module 1. 
+The analysis is performed on movie scripts [The Cornell Movie-Dialog Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html?fbclid=IwZXh0bgNhZW0CMTAAAR3jsE2-wD4HZhTrzowavqA94a6IOpnn5qCSOcdRHJ2toVJawSuxDIVnjog_aem_jYxU3UnBmZPvVrUO6AyOCQ). To be able to run the code, the data should be downloaded and saved beforehand, see **Installation** for more information. 
+
+## Installation
+Download [The Cornell Movie-Dialog Corpus](https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus?resource=download) from Kaggle, unpack the .zip file and save the content in the **data** folder in Module 1 - Data acqusition and preparation folder.
+
